@@ -1,0 +1,9 @@
+{
+	"name": "Datafactoryforsetupcoderepository",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6483c7e-2889-4d73-87f4-5f06f23bf92a",
+		"tenantId": "a912ec8e-6b62-418a-998d-c5030d46e2c4"
+	}
+}
